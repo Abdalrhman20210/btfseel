@@ -237,7 +237,7 @@ ul {
 }
 
 .header .mega-menue .links {
-    min-width: 240px;
+    min-width: 260px;
     flex: 1;
     direction: rtl;
 }
